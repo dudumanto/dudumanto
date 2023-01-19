@@ -2,7 +2,8 @@
 
 <ul>
   <li> Estudando Back-End e focando em Back-End.
-  <li> Linguagens que eu já estudei :
+  <li> Linguagens que eu já estudei :<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
            
         
 <ul>
