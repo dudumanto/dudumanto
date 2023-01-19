@@ -2,7 +2,7 @@
 
 <ul>
   <li> Estudando Back-End e focando em Back-End.
-  <li> Linguagens que eu já estudei : HTML, CSS, JAVASCRIPT, REACT, NODE, PYTHON.
+  <li> Linguagens que eu já estudei : <img  height="" src="https://www.flaticon.com/br/icone-gratis/html-5_5968267?term=html&page=1&position=1&origin=search&related_id=5968267"/>
 <ul>
 
 <br>
