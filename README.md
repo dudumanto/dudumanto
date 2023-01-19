@@ -2,7 +2,9 @@
 
 <ul>
   <li> Estudando Back-End e focando em Back-End.
-  <li> Linguagens que eu já estudei : [![PYTHON] (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
+  <li> Linguagens que eu já estudei :
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+        
 <ul>
 
 <br>
