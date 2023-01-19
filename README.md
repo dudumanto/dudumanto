@@ -2,7 +2,7 @@
 
 <ul>
   <li> Estudando Back-End e focando em Back-End.
-  <li> Linguagens que eu já estudei : <img src="https://www.flaticon.com/br/icone-gratis/html-5_5968267?term=html&page=1&position=1&origin=search&related_id=5968267"/>
+  <li> Linguagens que eu já estudei : [![PYTHON] (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
 <ul>
 
 <br>
