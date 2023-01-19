@@ -1,6 +1,6 @@
 ##  Eduardo Araujo Mantovani Aqui!
 
-<p> Estudando Back-End e focado em ser um dv Back-End. </p>
+<p> Estudando Back-End e focado em ser um dev Back-End. </p>
   <div align ="left"  valign="top"><br>
     <p> Linguagens que eu já estudei:
  
