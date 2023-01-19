@@ -1,5 +1,11 @@
 ##  Eduardo Araujo Mantovani Aqui!
 
+<ul>
+  <li> Estudando Back-End e focando em Back-End.
+  <li> Linguagens que eu já estudei : HTML, CSS, JAVASCRIPT, REACT, NODE, PYTHON.
+<ul>
+
+
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=dudumanto&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
