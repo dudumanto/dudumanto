@@ -16,7 +16,7 @@
  <div align ="left"  valign="top"><br>
     <p> Linguagens que estudo no momento :
  
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
   
 </div>
       
