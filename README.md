@@ -1,6 +1,6 @@
 ##  Eduardo Araujo Mantovani Aqui!
 
-<p> Focado em ser um DEV FULL-STACK </p>
+<p> Em constante evolução e apreendizado </p>
   <div align ="left"  valign="top"><br>
     <p> Linguagens que eu já estudei:
  
