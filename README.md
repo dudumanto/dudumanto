@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá, como vai ?</h1>
 
 ###
 
-<p align="left">My name is Eduardo Mantovani and I'm a PHP Developer, from São Paulo</p>
+<p align="left">Meu nome é Eduardo Araujo Mantovani, sou programador full-stack PHP</p>
 
 ###
 
@@ -38,9 +38,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
 
 ###
   
