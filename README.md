@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Eduardo Araujo Mantovani, sou programador full-stack PHP</p>
+<p align="left">Meu nome é Eduardo Araujo Mantovani, sou programador Full-Stack PHP</p>
 
 ###
 
