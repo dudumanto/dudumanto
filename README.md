@@ -101,6 +101,6 @@ Atualmente, contribuo na **Associação Comercial de São Paulo (ACSP)** no dese
 
 ## 📩 Contato
 
-🔗 **LinkedIn:** https://linkedin.com/in/eduardoaraujo  
+🔗 **LinkedIn:** https://www.linkedin.com/in/eduardo-mantovani181195230496/  
 📧 **E-mail:** dudu_Manto@hotmail.com
 
